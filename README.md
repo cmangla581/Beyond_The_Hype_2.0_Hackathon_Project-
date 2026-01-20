@@ -1,2 +1,15 @@
-# Beyond-The-Hype-2.0-Hackathon-Project-
-This Repository contains the Project for the Beyond The Hype Hackathon organized by our college club GDG-USAR.  This project is of Pima Indian Diabetes Dataset Prediction which predicts the diabetes based on dataset.  
+ # Beyond The Hype 2.0 Hackathon Project
+This Repository contains the Project for the Beyond The Hype Hackathon organized by our college club GDG-USAR.  
+
+This project is of Pima Indian Diabetes Dataset Prediction which predicts the diabetes based on dataset. 
+
+It predicts the probability of presence or absence of diabetes based on : 
+ 1. Pregnancies
+ 2. Glucose
+ 3. Blood Pressure
+ 4. Skin Thickness
+ 5. Insulin
+ 6. BMI
+ 7. Diabetes Pedigree Function
+ 8. Age   
+
