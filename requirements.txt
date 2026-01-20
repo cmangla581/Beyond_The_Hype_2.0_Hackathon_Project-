@@ -1,7 +1,0 @@
-The project consists of libraries including the : 
-Pandas
-Numpy 
-Scikit-Learn
-Standard Scaler 
-Random Forest Classifier
-Streamlit  
