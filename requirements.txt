@@ -1,9 +1,7 @@
 The project consists of libraries including the : 
-1. Pandas
-2. Seaborn 
-3. Numpy 
-4. matplotlib 
-5. Scikit Learn
-6. Standard Scaler 
-7. Random Forest Classifier
-9. Streamlit 
+Pandas
+Numpy 
+Scikit Learn
+Standard Scaler 
+Random Forest Classifier
+Streamlit  
