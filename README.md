@@ -13,3 +13,4 @@ It predicts the probability of presence or absence of diabetes based on :
  7. Diabetes Pedigree Function
  8. Age   
 
+The Link for the Streamlit App : https://cmangla-diabetes-predictor.streamlit.app/ 
